@@ -1,0 +1,323 @@
+.color{
+     color: #777777;
+     font-size: 20px;
+}
+.btn{
+     color: #0081ff;
+     margin-left: auto;
+}
+.slide1{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 250px;
+     background-image: cover;
+}
+.slide2{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 250px;
+     background-image: cover;
+}
+.slide3{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 250px;
+     background-image: cover;
+}
+.slide4{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 250px;
+     background-image: cover;
+}
+.slide5{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height:250px;
+     background-image: cover;
+}
+.bgr{
+     background-color: #f1f1f1;
+}
+.qu{
+     text-align: center;
+}
+.qua{
+     color: #777777;
+     font-size: 13px;
+     text-align: center;
+}
+
+.img{
+     background-color: #fff;
+     box-shadow: 0 3px 9px 0 rgb(0 0 0 / 30%);
+     border-radius: 15px 15px 15px 15px;
+}
+.img1{
+     height: 150px;
+     background-image: url("../img/p1.jpg");
+     background-position: center;
+     background-size: cover;
+}
+.img2{
+     background-image: url("../img/p2.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.img3{
+     background-image: url("../img/p3.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.img4{
+     background-image: url("../img/p4.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.img5{
+     background-image: url("../img/p5.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.img6{
+     background-image: url("../img/p6.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.img7{
+     background-image: url("../img/p7.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.img8{
+     background-image: url("../img/p8.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.img9{
+     background-image: url("../img/p9.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.img10{
+     background-image: url("../img/pp10.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.img11{
+     background-image: url("../img/p11.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.img12{
+     background-image: url("../img/p12.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.img13{
+     background-image: url("../img/p13.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.img14{
+     background-image: url("../img/p14.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.img15{
+     background-image: url("../img/p15.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.img16{
+     background-image: url("../img/p16.jpg");
+     height: 150px;
+     background-position: center;
+     background-size: cover;
+}
+.gold{
+     color: #777777;  
+}
+.icon{
+     color: #777777;
+     text-align: center;
+}
+
+.clr{
+     background-color: #ddd;
+     box-shadow: 0 2px 4px -1px rgb(0 0 0 / 20%), 0 4px 5px 0 rgb(0 0 0 / 14%), 0 1px 10px 0 rgb(0 0 0 / 12%);
+}
+.fff{
+     background-color: #ffffff;
+     box-shadow: 0 2px 4px -1px rgb(0 0 0 / 20%), 0 4px 5px 0 rgb(0 0 0 / 14%), 0 1px 10px 0 rgb(0 0 0 / 12%);
+}
+.btnn{
+     height: auto;
+     width: 18%;
+     border-radius: 540px;
+     background-color: #0081ff;
+     color: white;
+}
+.ff{
+     background-color: #f5f5f5;
+     box-shadow: 0 2px 4px -1px rgb(0 0 0 / 20%), 0 4px 5px 0 rgb(0 0 0 / 14%), 0 1px 10px 0 rgb(0 0 0 / 12%);
+}
+.btn{
+     
+     color: green;
+     width: 70%;
+}
+.yy{
+     position: sticky;
+     bottom: 0;
+     left: 0;
+     right: 0;
+}
+.xy{
+     position: fixed;
+     bottom: 0;
+     left: 0;
+     right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 320px) {
+     .btnn{
+         margin-left: auto;
+     }
+     .color{
+          font-size: 17px;    
+     }
+      .ttt{
+          margin-inline-end: revert;
+          display: -moz-grid-line;
+      }
+      .btnn{
+          width: 55%;
+      }
+      .mmm{
+          width: 83%;
+      }
+      .mmmm{
+          width: 100%;
+      }
+      .ff{
+          width: 50%;
+          margin-left: 72px;
+      }
+   }
+
+   @media (max-width: 375px) {
+      .qr{
+          margin-left: 15px;
+      }
+      .ttt{
+          margin-inline-end: revert;
+          display: -webkit-inline-box;
+      }
+      .btnn{
+          width: 55%;
+      }
+      .ff{
+          width: 50%;
+          margin-left: 72px;
+      }
+     }
+
+     @media (max-width: 425px) {
+          .qr{
+               margin-left: 15px;
+           }
+           .ttt{
+               margin-inline-end: revert;
+               display: -webkit-inline-box;
+           }
+           .btnn{
+               width: 55%;
+           }
+           .ff{
+               width: 50%;
+               margin-left: 72px;
+           }
+         }
+
+         @media (max-width: 768px) {
+          .ttt{
+               margin-inline-end: revert;
+               display: -webkit-inline-box;
+           }
+           .btnn{
+               width: 55%;
+          }
+          .div1{
+               display: block !important;
+          }
+          .div2{
+               display: none !important;
+          }
+     }
+
+
+
+     
+        
+         @media (max-width: 1024px) {
+          
+             .btnn{
+               width: 55%;
+         }
+         .qr .h6 .span{
+          display: none;
+         }
+         .div1{
+          display: none;
+     }
+     }
+     
+
+         @media screen and ( device-width: 1440px ) {
+         
+          .btnn{
+               width: 55%;
+           }
+           .div1{
+               display: none;
+          }
+      }
+     
+
+     
